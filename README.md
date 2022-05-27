@@ -1,4 +1,4 @@
-# ECE 657a - Data-Knowledge-Modelling-Analysis
+# ECE 657a - Data Knowledge & Modelling Analysis
 Python(NumPy, Pandas, Scikit-learn, matplotlib, plotly, seaborn, TensorFlow, PyTorch)
 Analyze and prepare data, describe and apply theoretical concepts in Data Science and Machine Learning, design data processing pipelines and implement important machine learning algorithms on a range of datasets and tasks.
 
